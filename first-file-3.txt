@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-nouveaux texte brown
-=======
+
 je suis la 
->>>>>>> ko3
+
