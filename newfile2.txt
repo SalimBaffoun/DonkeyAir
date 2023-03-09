@@ -2,5 +2,5 @@
 la voiture rouge est rapide
 =======
 je modifie le fichier pour létape 19 > newfile2
-echo je modifie le fichier pour létape 19
+
 >>>>>>> 780d3632e60e2e2f22f3945e1c4c715a075fcb74
