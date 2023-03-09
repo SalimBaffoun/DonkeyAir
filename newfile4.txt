@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-modif pour branche6
-=======
 aller on va merger
->>>>>>> feat/member-4
+
