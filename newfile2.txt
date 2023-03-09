@@ -1,1 +1,2 @@
-caca boudin
+je modifie le fichier pour létape 19 > newfile2
+echo je modifie le fichier pour létape 19
