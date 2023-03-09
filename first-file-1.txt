@@ -1,1 +1,3 @@
-vraiment incroyable ce git
+=======
+c la folie
+>>>>>>> 4394a5c692547a96bc8d679b0c6e7ff8d75600d4
